@@ -1,0 +1,38 @@
+First Come First Serve
+Child 1 details:
+Workload Size: 1000000
+CPU Burst Time: 0.000000
+Wait Time: 0.000000
+Turnaround Time: 0.000000
+
+Child 2 details:
+Workload Size: 10
+CPU Burst Time: 0.000000
+Wait Time: 0.000000
+Turnaround Time: 0.000000
+
+Child 3 details:
+Workload Size: 10
+CPU Burst Time: 0.000000
+Wait Time: 0.000000
+Turnaround Time: 0.000000
+
+Round Robin
+Child 1 details:
+Workload Size: 1000000
+CPU Burst Time: 0.000000
+Wait Time: 0.000000
+Turnaround Time: 0.000000
+
+Child 2 details:
+Workload Size: 10
+CPU Burst Time: 0.000000
+Wait Time: 0.000000
+Turnaround Time: 0.000000
+
+Child 3 details:
+Workload Size: 10
+CPU Burst Time: 0.000000
+Wait Time: 0.000000
+Turnaround Time: 0.000000
+
